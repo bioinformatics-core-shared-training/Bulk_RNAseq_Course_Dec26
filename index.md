@@ -49,11 +49,13 @@ differential expression analysis of RNA-seq data.
   - [Practical](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_practical.html)
   - [Practical solutions](Bulk_RNAseq_Course_Base/Markdowns/02_FastQC_solutions.html)
 
-11:00 - 13:30 [Alignment and Quantification of Gene Expression with Salmon](Bulk_RNAseq_Course_Base/Markdowns/03_Quantification_with_Salmon_introduction.html) - Vic
+11:00 - 12:30 [Alignment and Quantification of Gene Expression with Salmon](Bulk_RNAseq_Course_Base/Markdowns/03_Quantification_with_Salmon_introduction.html) - Vic
 
   - [Practical](Bulk_RNAseq_Course_Base/Markdowns/03_Quantification_with_Salmon_practical.html)
 
-13:30 - 14:30 Lunch
+12:30 - 13:30 Lunch
+
+13:30 - 14:30 Alignment and Quantification of Gene Expression with Salmon (continued)
 
 14:30 - 15:30 [QC of alignment](Bulk_RNAseq_Course_Base/Markdowns/04_Quality_Control_introduction.html) - Abbi
 
